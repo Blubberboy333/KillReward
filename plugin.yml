@@ -1,5 +1,5 @@
 name: KillReward
-main: KillReward\Main
-author: HellBublz
+main: killreward\Main
+author: [HellBublz, Gamecrafter]
 version: INDEV
 API: 1.12.0
