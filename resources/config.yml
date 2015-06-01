@@ -1,0 +1,4 @@
+## Default config for KillReward
+
+# Item given when the player kills another player
+Item: diamond
