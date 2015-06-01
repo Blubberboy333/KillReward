@@ -3,3 +3,11 @@ main: killreward\Main
 author: [HellBublz, Gamecrafter]
 version: INDEV
 API: 1.12.0
+permissions:
+  killreward:
+    default: false
+    description: Allows the player to use all of the KillREward functions
+    children:
+      killreward.add:
+        default: true
+        description: Allows the player to recieve items when he/she kill another player
